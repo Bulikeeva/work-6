@@ -1,0 +1,11 @@
+digraph "D:/TehProg/8"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_5d7289a47b194e3e4873819e243758cb {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="TehProg", fontname="Helvetica", fontsize="10", URL="dir_5d7289a47b194e3e4873819e243758cb.html"]
+  dir_6054a58da8b257e17b56d3047f324d2c [shape=box, label="8", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_6054a58da8b257e17b56d3047f324d2c.html"];
+  }
+}
