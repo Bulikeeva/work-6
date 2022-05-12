@@ -3,7 +3,7 @@
 #include "mycomplex.h"
 
 using namespace std;
-
+ 
 Complex::Complex( double aRe, double aIm ) {
     Re = aRe;
     Im = aIm;
